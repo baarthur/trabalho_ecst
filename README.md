@@ -12,8 +12,10 @@ Ibmec Minas Gerais - maio/2021
 
 * Pasta `antt`: contém os arquivos utilizados para a base de dados
 
-* `fca_tus2.rmd`: arquivo Rmarkdown com o script do modelo
+* `atividade ECST.rproj`: amb
 
-* `fca_tus2.html`: arquivo da apresentação final em html
+* `volume_fca.rmd`: arquivo Rmarkdown com o script do modelo
+
+* `volume_fca.html`: arquivo da apresentação final em html
 
 * `malha_fca.png`: imagem exibida no arquivo
